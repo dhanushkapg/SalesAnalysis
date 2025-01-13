@@ -26,7 +26,7 @@ Based on the analysis, the reasons for the sales drop were identified and recome
  <h3>Distric Monthly Sales</h3>
  <p align="center">
 
-<img src="https://github.com/ManoshaSumathiratna/SalesPerformanceDashboard/blob/main/Images/Netflix%20report%201.png"/>
+<img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043350258.jpeg"/>
 <br/>
 <br>
 <br/>
