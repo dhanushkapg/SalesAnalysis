@@ -22,4 +22,11 @@ Through this project, I aim to develop proficiency in data modeling, DAX (Data A
 <p align="justify">
 Based on the analysis, the reasons for the sales drop were identified and recomendations discussed to overcome the issue.
 <br/>
+ <h2>Sales Dashboard: Dashboard</h2>
+ <h3>Distric Monthly Sales</h3>
+ <p align="center">
+
+<img src="https://github.com/ManoshaSumathiratna/SalesPerformanceDashboard/blob/main/Images/Netflix%20report%201.png"/>
+<br/>
+<br>
 <br/>
