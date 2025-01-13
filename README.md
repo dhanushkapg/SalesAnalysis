@@ -35,3 +35,10 @@ Based on the analysis, the reasons for the sales drop were identified and recome
 
 <img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043296879.jpeg"/>
 <br/>
+<br>
+
+<h2>Sales Goals Dashboard</h2>
+<p align="center">
+
+<img src="https://github.com/dhanushkapg/SalesAnalysis/blob/main/1728043281844.jpeg"/>
+<br/>
